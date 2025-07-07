@@ -20,7 +20,7 @@ Este projeto é uma página web simples desenvolvida como atividade prática da 
 
 ## Como visualizar
 
-Você pode acessar o projeto online (se hospedado no GitHub Pages) ou clonar o repositório:
+Você pode acessar o projeto online  ou clonar o repositório:
 
 ```bash
 git clone https://github.com/PrinceMarlez/Atividade-Pratica---Uninter-FUNDAMENTOS-DE-DESENVOLVIMENTO-DE-SOFTWARE-.git
